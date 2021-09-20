@@ -2,4 +2,4 @@
 Playing with cellular automata using P5.js
 
 ## Sand/Water Simulation
-* <a href="Sand_Water_Simulation/index.html">Sand/Water Simulation</a>
+* [Sand/Water Simulation](https://diegofreitash.github.io/CellularAutomata/Sand_Water_Simulation/index.html)
